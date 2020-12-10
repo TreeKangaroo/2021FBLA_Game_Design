@@ -4,7 +4,7 @@
 <br> A puzzle game made for the 2021 FBLA Game Design event.
 
 # How to install
-Download the Build2.zip folder to your computer. When it finishes downloading, a message will pop up on the bottom of your screen (see below).
+Download the "Build3.zip" folder to your computer. When it finishes downloading, a message will pop up on the bottom of your screen (see below).
 <br> <img src = "/1.JPG"> <br>
 Click the arrow on the side of message and click "Keep". After that, double click on the download and open it in file explorer as you would a normal folder. Extract all files.
 <br> <img src = "/2.JPG"> <br>
